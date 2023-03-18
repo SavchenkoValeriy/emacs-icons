@@ -1,22 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1024" height="1024" version="1.1"
-   xmlns="http://www.w3.org/2000/svg">
+    xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g1" x1="896" y1="128" x2="128" y2="896"
-       gradientUnits="userSpaceOnUse">
-      <stop style="stop-color:#9C84BC;" offset="0" />
-      <stop style="stop-color:#795CAF;" offset="1" />
+    <linearGradient id="paint0_linear" x1="512" y1="144.5" x2="512" y2="925"
+        gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8381C5"/>
+      <stop offset="1" stop-color="#5350AF"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1"
+        gradientUnits="userSpaceOnUse"
+        gradientTransform="translate(1006.5 231.5) rotate(146.242)
+                           scale(1401.87 2046.01)">
+      <stop stop-color="#F98A8A" stop-opacity="0.78"/>
+      <stop offset="0.359375" stop-color="#FA9696" stop-opacity="0.564375"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1"
+        gradientUnits="userSpaceOnUse"
+        gradientTransform="translate(512 -143) rotate(90) scale(1068)">
+      <stop stop-color="#AFADDA"/>
+      <stop offset="0.860487" stop-color="#7E55B3" stop-opacity="0.996078"/>
+    </radialGradient>
+    <linearGradient id="paint3_linear" x1="507.218" y1="220" x2="507.218"
+        y2="833" gradientUnits="userSpaceOnUse">
+      <stop offset="0.00978793" stop-color="#F0EFF8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#F0EFF8" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear" x1="495.107" y1="205" x2="495.107"
+        y2="817.614" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5653B0"/>
+      <stop offset="1" stop-color="#5653B0" stop-opacity="0.21"/>
+    </linearGradient>
+    <linearGradient id="paint5_linear" x1="501" y1="215" x2="501" y2="828"
+        gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0EFF8"/>
+      <stop offset="1" stop-color="#E3E2F2"/>
     </linearGradient>
   </defs>
-  <path style="fill:url(#g1);stroke:none;"
+  <path style="fill:url(#paint0_linear);stroke:none;"
      d="M 256,64 128,128 64,256 l 0,512 L 128,896 l 128,64 H 768
         L 896,896 960,768 V 256 L 896,128 768,64 Z" />
-  <path style="fill:#645DAE;stroke:none;"
+  <path style="fill:url(#paint1_radial);stroke:none;"
+     d="M 256,64 128,128 64,256 l 0,512 L 128,896 l 128,64 H 768
+        L 896,896 960,768 V 256 L 896,128 768,64 Z" />
+  <path style="fill:url(#paint2_radial);stroke:none;"
+     d="M 256,64 128,128 64,256 l 0,512 L 128,896 l 128,64 H 768
+        L 896,896 960,768 V 256 L 896,128 768,64 Z" />
+  <path style="fill:url(#paint4_linear);stroke:none;"
      d="M 448,256 320,320 384,384 448,448 H 384 l -64,64 -64,64 v 64
         l 64,64 h 256 l -64,64 128,0 64,-64 -30,-64 H 448 384 v -64
         l 64,-64 h 128 l 64,-64 -192,-64 L 448,320 h 256
         l 64,-128 -128,-64 -64,0 L 512,192 h 128 l -64,64 z" />
-  <path style="fill:#FFFFFF;stroke:none;"
+  <path style="fill:url(#paint5_linear);stroke:none;"
      d="M 448,320 320,384 384,448 448,512 H 384 l -64,64 -64,64 0,64 64,64
         h 256 l -64,64 128,0 64,-64 -30,-64 H 448 384 v -64 l 64,-64
         h 128 l 64,-64 -192,-64 L 448,384 h 256 l 64,-128 -128,-64 -64,0
