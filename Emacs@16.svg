@@ -40,10 +40,10 @@
   <path style="fill:url(#paint0_linear);stroke:none;"
      d="M 256,64 128,128 64,256 l 0,512 L 128,896 l 128,64 H 768
         L 896,896 960,768 V 256 L 896,128 768,64 Z" />
-  <path style="fill:url(#paint1_radial);stroke:none;"
+  <path style="fill:url(#paint1_radial);stroke:none;" fill-opacity="0.8"
      d="M 256,64 128,128 64,256 l 0,512 L 128,896 l 128,64 H 768
         L 896,896 960,768 V 256 L 896,128 768,64 Z" />
-  <path style="fill:url(#paint2_radial);stroke:none;"
+  <path style="fill:url(#paint2_radial);stroke:none;" fill-opacity="0.8"
      d="M 256,64 128,128 64,256 l 0,512 L 128,896 l 128,64 H 768
         L 896,896 960,768 V 256 L 896,128 768,64 Z" />
   <path style="fill:url(#paint4_linear);stroke:none;"
