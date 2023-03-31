@@ -1,6 +1,6 @@
 # emacs-icons
 
-Here's the icon itself
+Here’s the icon itself
 
 ![emacs-1024](Emacs@1024.png)
 ![emacs-512](Emacs@512.png)
@@ -10,7 +10,7 @@ Here's the icon itself
 ![emacs-32](Emacs@32.png)
 ![emacs-16](Emacs@16.png)
 
-And here it is in the natural habitat:
+And here it is, in its natural habitat:
 
 ![emacs-dock](Screenshot-dock.png)
 ![emacs-cycle](Screenshot-cycle.png)
