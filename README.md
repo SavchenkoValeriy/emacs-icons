@@ -22,3 +22,14 @@ In the habitat:
 ![emacs-dock](flat-blender/Screenshot-dock.png)
 ![emacs-cycle](flat-blender/Screenshot-cycle.png)
 
+## Curvy 3D rendered icon
+
+Icon itself:
+
+<img src="curvy-blender/Emacs@1024.png" width="256">
+
+In the habitat:
+
+![emacs-dock](curvy-blender/Screenshot-dock.png)
+![emacs-cycle](curvy-blender/Screenshot-cycle.png)
+
